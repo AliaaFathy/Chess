@@ -1,0 +1,24 @@
+.black{
+margin:0;
+border-radius: 0px;
+background: grey;
+border-color : white;
+}
+.white{
+margin: 0;
+border-radius: 0px;
+background: white;
+border-color : white;
+}
+.invalid{
+margin: 0;
+border-radius: 0px;
+background: #E95050;
+border-color : white;
+}
+ .first_click{
+margin: 0;
+border-radius: 0px;
+background: #90ee90;
+border-color : white;
+ }
